@@ -2135,6 +2135,14 @@ position: relative; left: 40%;
 }
 }
 
+@media (max-width: 540px){
+
+  #wrapper {
+    position: relative; bottom: 300px;
+    margin-top: 580px;
+  }
+  }
+
 /* FEATURE BOXES */
 .service-box{
   display: inline-block;
